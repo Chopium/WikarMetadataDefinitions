@@ -1,16 +1,19 @@
-{
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
-}
+[
+	"alphabetic_latin",
+	"alphabetic_latin_latin",
+	"alphabetic_latin_italian",
+	"alphabetic_latin_vernacular",
+	"alphabetic_latin_french",
+	"alphabetic_latin_english",
+	"alphabetic_latin_nomina sacra",
+	"alphabetic_latin_nomina sacra_chrismon",
+
+	"alphabetic_greek",
+	"alphabetic_greek_greek",
+	"alphabetic_greek_dimotiki",
+	"alphabetic_greek_karamanlidika",
+
+	"alphabetic_arabic",
+
+	"alphabetic_armenian"
+]
