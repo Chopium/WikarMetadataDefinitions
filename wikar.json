@@ -1,5 +1,4 @@
-{
-  "array": [
+{[
   "geometrical_symbol",
 	"geometrical_symbol_coat of arms",
 	"geometrical_symbol_gordian knot",
@@ -28,14 +27,4 @@
 	"geometrical_composition_abstract",
 
 	"geometrical_fragmentary"
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
-}
+  ]}
