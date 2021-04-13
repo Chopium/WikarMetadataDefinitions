@@ -1,7 +1,6 @@
 {
-  "definition": {
-  [
-	"geometrical_symbol",
+  "array": [
+  "geometrical_symbol",
 	"geometrical_symbol_coat of arms",
 	"geometrical_symbol_gordian knot",
 	"geometrical_symbol_palmette",
@@ -29,8 +28,7 @@
 	"geometrical_composition_abstract",
 
 	"geometrical_fragmentary"
-]
-},
+  ],
   "boolean": true,
   "color": "gold",
   "null": null,
