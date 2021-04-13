@@ -1,19 +1,43 @@
-[
-	"alphabetic_latin",
-	"alphabetic_latin_latin",
-	"alphabetic_latin_italian",
-	"alphabetic_latin_vernacular",
-	"alphabetic_latin_french",
-	"alphabetic_latin_english",
-	"alphabetic_latin_nomina sacra",
-	"alphabetic_latin_nomina sacra_chrismon",
+{
+  "definition": {
+  [
+	"geometrical_symbol",
+	"geometrical_symbol_coat of arms",
+	"geometrical_symbol_gordian knot",
+	"geometrical_symbol_palmette",
+	"geometrical_symbol_cross_latin",
+	"geometrical_symbol_cross_greek",
+	"geometrical_symbol_star",
+	"geometrical_symbol_mandola",
+	"geometrical_symbol_svastica",
 
-	"alphabetic_greek",
-	"alphabetic_greek_greek",
-	"alphabetic_greek_dimotiki",
-	"alphabetic_greek_karamanlidika",
+	"geometrical_shapes",
+	"geometrical_shapes_square",
+	"geometrical_shapes_circle",
+	"geometrical_shapes_triangle",
+	"geometrical_shapes_diamond",
+	"geometrical_shapes_angle",
 
-	"alphabetic_arabic",
+	"geometrical_composition",
+	"geometrical_composition_perpendicular lines",
+	"geometrical_composition_vertical lines",
+	"geometrical_composition_ladder",
+	"geometrical_composition_triangles",
+	"geometrical_composition_vertical composition",
+	"geometrical_composition_perpendicular lines",
+	"geometrical_composition_circle with inscribed cross",
+	"geometrical_composition_abstract",
 
-	"alphabetic_armenian"
+	"geometrical_fragmentary"
 ]
+},
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
